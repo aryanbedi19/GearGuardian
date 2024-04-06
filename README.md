@@ -1,3 +1,5 @@
-# GearGuardian
+# Rink Ready (ES1050 FINAL PROJECT)
 
-Gear Guardian is a checklist app crafted to ensure athletes, particularly those within the GBSA, never forget their essential gear. 
+Rink Ready is a checklist app crafted to ensure athletes, particularly those within the GBSA (George Bray Sports Association London), never forget their essential gear. 
+
+Used React and Expo 
